@@ -1,0 +1,30 @@
+HTML COURSE:
+
+-----------------------------------------------DEFINITIONS---------------------------------------------------
+
+Html stands for Hypertext markup language which is a language used to create web sites and web applications.
+
+HyperText: it simply means "Text within Text." A text has a link within it, is a hypertext. Whenever you
+click on a link which brings you to a new webpage, you have clicked on a hypertext. HyperText is a way to link
+two or more web pages (HTML documents) with each other.
+
+Markup Language: A markup language is a computer language that is used to apply layout and formatting 
+conventions to a text document. Markup language makes text more interactive and dynamic. It can turn text 
+into images, tables, links, etc.
+
+-----------------------------------------------HTML ELEMENT--------------------------------------------------
+
+A HTML element is a part of a html code which starts with an opening tag and ends with a closing tag.
+
+PARTS OF AN HTML ELEMENT:
+
+opening tag: <tag>
+content : content
+closing tag: <\tag>
+the tag may have one or multiple attribut:
+A Html attribut is composed by a name and a value.
+
+------------------------------------------- LIST OF HTML TAGS -----------------------------------------------
+
+-1- <!DOCTYPE html>
+ 
